@@ -6,7 +6,7 @@ A portfolio of statistical data analysis projects.
 
 Using data from the Cleveland Clinic Foundation Heart Disease Data Set available at UCI Machine Learning Repository, I demonstrate the application of logit models in predicting the probability of heart disease.
 
-## [Are Cryptocurrencies a Poor Store of Value?](https://example.com)
+## [Are Cryptocurrencies a Poor Store of Value?](https://rpubs.com/annaew/939436)
 
 These markets are at an early stage of development, and as such suffer from issues of credibility, sustainability and regulation which cause them to be typically more volatile than traditional fiat money. The aim of this project is to forecast the volatility and price level cryptocurrencies.
 
