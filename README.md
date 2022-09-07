@@ -21,3 +21,5 @@ Are latency-arbitrage trading strategies harmful to markets? I conduct an invest
 ## [Forecasting U.S. Recession With a Probit Model](https://github.com/annakew/Data-Analytics-Portfolio/blob/main/Forecasting%20US%20Recession.pdf)
 
 Economic turning points are notoriously hard to predict. A probit model was applied to monthly macroeconomic and other data from The Federal Reserve Bank of St. Louis Federal Reserve Economic Data (FRED) to forecast U.S. recession.
+
+## Resources for Econometricians
