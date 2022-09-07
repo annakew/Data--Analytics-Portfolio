@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 
-A portfolio of statistical data analysis projects.
+A portfolio of statistical data analysis projects focusing on Health and Economics.
 
 ## [Predictors of Heart Disease Using A Logit Model](https://rpubs.com/annaew/939427)
 
